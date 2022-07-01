@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>_/╲/\╭༼ ººل͟ºº ༽╮/\╱\_</h1>
+  <h1 style="padding-bottom: 0">_/╲/\╭༼ ººل͟ºº ༽╮/\╱\_</h1>
 </div>
 
 <div align='center'>
